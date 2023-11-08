@@ -5,6 +5,8 @@ This project aims to predict the median value of owner-occupied homes in the Bos
 ## Requirements
 TensorFlow
 
+Scikit
+
 Keras
 
 Numpy
