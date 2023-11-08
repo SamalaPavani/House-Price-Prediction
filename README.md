@@ -1,4 +1,4 @@
-# Boston-Housing-Price-Prediction-using-Deep-Learning
+# Housing-Price-Prediction-using-Machine-Learning
 
 This project aims to predict the median value of owner-occupied homes in the Boston area using deep learning techniques. The model is trained on the Boston Housing dataset, which consists of various features such as crime rate, average number of rooms, and accessibility to radial highways.
 
